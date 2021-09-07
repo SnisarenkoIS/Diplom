@@ -1,0 +1,72 @@
+c:\users\borcu\documents\visual studio 2010\Projects\Diplom\Diplom\bin\Debug\Diplom.exe
+c:\users\borcu\documents\visual studio 2010\Projects\Diplom\Diplom\bin\Debug\Diplom.pdb
+c:\users\borcu\documents\visual studio 2010\Projects\Diplom\Diplom\obj\x86\Debug\Diplom.Form1.resources
+c:\users\borcu\documents\visual studio 2010\Projects\Diplom\Diplom\obj\x86\Debug\Diplom.Properties.Resources.resources
+c:\users\borcu\documents\visual studio 2010\Projects\Diplom\Diplom\obj\x86\Debug\Diplom.csproj.GenerateResource.Cache
+c:\users\borcu\documents\visual studio 2010\Projects\Diplom\Diplom\obj\x86\Debug\Diplom.exe
+c:\users\borcu\documents\visual studio 2010\Projects\Diplom\Diplom\obj\x86\Debug\Diplom.pdb
+c:\users\borcu\documents\visual studio 2010\Projects\Diplom\Diplom\bin\Debug\ru\Diplom.resources.dll
+c:\users\borcu\documents\visual studio 2010\Projects\Diplom\Diplom\obj\x86\Debug\Diplom.Form1.ru.resources
+c:\users\borcu\documents\visual studio 2010\Projects\Diplom\Diplom\obj\x86\Debug\ru\Diplom.resources.dll
+C:\Users\ilaborcuhin\Desktop\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\ilaborcuhin\Desktop\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\ilaborcuhin\Desktop\Diplom\Diplom\bin\Debug\ru\Diplom.resources.dll
+C:\Users\ilaborcuhin\Desktop\Diplom\Diplom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ilaborcuhin\Desktop\Diplom\Diplom\obj\x86\Debug\Diplom.Form1.resources
+C:\Users\ilaborcuhin\Desktop\Diplom\Diplom\obj\x86\Debug\Diplom.Properties.Resources.resources
+C:\Users\ilaborcuhin\Desktop\Diplom\Diplom\obj\x86\Debug\Diplom.Form1.ru.resources
+C:\Users\ilaborcuhin\Desktop\Diplom\Diplom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ilaborcuhin\Desktop\Diplom\Diplom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ilaborcuhin\Desktop\Diplom\Diplom\obj\x86\Debug\ru\Diplom.resources.dll
+C:\Users\ilaborcuhin\Desktop\Diplom\Diplom\obj\x86\Debug\Diplom.exe
+C:\Users\ilaborcuhin\Desktop\Diplom\Diplom\obj\x86\Debug\Diplom.pdb
+E:\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.exe
+E:\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.pdb
+E:\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\bin\Debug\Diplom.exe
+E:\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\bin\Debug\Diplom.pdb
+E:\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\bin\Debug\ru\Diplom.resources.dll
+E:\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\bin\Debug\Xceed.Document.NET.dll
+E:\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\bin\Debug\Xceed.Words.NET.dll
+E:\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.csprojResolveAssemblyReference.cache
+E:\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.Form1.resources
+E:\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.Properties.Resources.resources
+E:\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.Form1.ru.resources
+E:\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.csproj.GenerateResource.Cache
+E:\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\ru\Diplom.resources.dll
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\Diplom\Diplom\bin\Debug\ru\Diplom.resources.dll
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\Diplom\Diplom\bin\Debug\Xceed.Document.NET.dll
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\Diplom\Diplom\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.Form1.resources
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.Properties.Resources.resources
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.Form1.ru.resources
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.csproj.GenerateResource.Cache
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\Diplom\Diplom\obj\x86\Debug\ru\Diplom.resources.dll
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.exe
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.pdb
+C:\Users\omon2\Desktop\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\omon2\Desktop\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\omon2\Desktop\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\bin\Debug\ru\Diplom.resources.dll
+C:\Users\omon2\Desktop\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\bin\Debug\Xceed.Document.NET.dll
+C:\Users\omon2\Desktop\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\bin\Debug\Xceed.Words.NET.dll
+C:\Users\omon2\Desktop\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.Form1.resources
+C:\Users\omon2\Desktop\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.Properties.Resources.resources
+C:\Users\omon2\Desktop\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.Form1.ru.resources
+C:\Users\omon2\Desktop\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.csproj.GenerateResource.Cache
+C:\Users\omon2\Desktop\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\ru\Diplom.resources.dll
+C:\Users\omon2\Desktop\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.exe
+C:\Users\omon2\Desktop\Дипломная работа\Код\Дипломная работа\Diplom\Diplom\obj\x86\Debug\Diplom.pdb
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\New version (16.11.2020)\Diplom\Diplom\bin\Debug\Diplom.exe
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\New version (16.11.2020)\Diplom\Diplom\bin\Debug\Diplom.pdb
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\New version (16.11.2020)\Diplom\Diplom\bin\Debug\ru\Diplom.resources.dll
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\New version (16.11.2020)\Diplom\Diplom\bin\Debug\Xceed.Document.NET.dll
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\New version (16.11.2020)\Diplom\Diplom\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\New version (16.11.2020)\Diplom\Diplom\obj\x86\Debug\Diplom.Form1.resources
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\New version (16.11.2020)\Diplom\Diplom\obj\x86\Debug\Diplom.Properties.Resources.resources
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\New version (16.11.2020)\Diplom\Diplom\obj\x86\Debug\Diplom.Form1.ru.resources
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\New version (16.11.2020)\Diplom\Diplom\obj\x86\Debug\Diplom.csproj.GenerateResource.Cache
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\New version (16.11.2020)\Diplom\Diplom\obj\x86\Debug\ru\Diplom.resources.dll
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\New version (16.11.2020)\Diplom\Diplom\obj\x86\Debug\Diplom.exe
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\New version (16.11.2020)\Diplom\Diplom\obj\x86\Debug\Diplom.pdb
+C:\Users\Snisarenko.IS\Documents\Visual Studio 2010\Projects\Дипломная работа\New version (16.11.2020)\Diplom\Diplom\obj\x86\Debug\Diplom.csprojResolveAssemblyReference.cache

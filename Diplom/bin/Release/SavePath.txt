@@ -1,0 +1,4 @@
+C:\Windows\system32\notepad
+C:\Windows\system32\notepad
+C:\Program Files (x86)\IrfanView\i_view32
+C:\Windows\system32\notepad
